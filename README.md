@@ -78,6 +78,3 @@ END
 Thus, the cube of the given data is calculated using 8051 Keil.
 
 
-Thus, the cube of the given data is calculated using 8051 Keil.
-
-
